@@ -26,5 +26,13 @@
   },
   "peerDependencies": {
     "boom": ">=2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/boom-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/boom-clone/issues"
+  },
+  "homepage": "https://github.com/tableflip/boom-clone#readme"
 }
