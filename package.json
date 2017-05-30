@@ -9,7 +9,10 @@
   "keywords": [
     "boom",
     "wrap",
-    "immutable"
+    "immutable",
+    "clone",
+    "copy",
+    "error"
   ],
   "author": "Alan Shaw",
   "license": "AGPL-3.0",
