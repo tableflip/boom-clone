@@ -40,4 +40,4 @@ Return a cloned boomified error object.
 * `[statusCode]` Optional HTTP status code
 * `[message]` Optional error message
 
-NOTE: `statusCode` or `message` are invalid params(!) if passed along with an already boomified `error`.
+NOTE: `statusCode` and `message` are invalid params(!) if passed along with an already boomified `error`.
