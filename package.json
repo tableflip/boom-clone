@@ -1,0 +1,27 @@
+{
+  "name": "boom-clone",
+  "version": "0.0.0",
+  "description": "Boom.wrap that returns a cloned boomed error",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "boom",
+    "wrap",
+    "immutable"
+  ],
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "utils-copy-error": "^1.0.1"
+  },
+  "devDependencies": {
+    "boom": "^5.1.0",
+    "standard": "^10.0.2",
+    "tape": "^4.6.3"
+  },
+  "peerDependencies": {
+    "boom": ">=2.0.1"
+  }
+}
