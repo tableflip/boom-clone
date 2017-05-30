@@ -1,4 +1,4 @@
-# boom-clone
+# boom-clone [![Build Status](https://travis-ci.org/tableflip/boom-clone.svg?branch=master)](https://travis-ci.org/tableflip/boom-clone) [![dependencies Status](https://david-dm.org/tableflip/boom-clone/status.svg)](https://david-dm.org/tableflip/boom-clone)
 
 Like `Boom.wrap`, but returns a cloned boomified error...because `Boom.wrap` mutates your error object.
 
