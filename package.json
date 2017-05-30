@@ -1,6 +1,6 @@
 {
   "name": "boom-clone",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Boom.wrap that returns a cloned boomed error",
   "main": "index.js",
   "scripts": {
