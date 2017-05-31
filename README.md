@@ -41,3 +41,7 @@ Return a cloned boomified error object.
 * `[message]` Optional error message
 
 NOTE: `statusCode` and `message` are invalid params(!) if passed along with an already boomified `error`.
+
+---
+
+A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) side project.
